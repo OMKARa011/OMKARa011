@@ -3,7 +3,7 @@
 <h3 align="center"> 𝗔 𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘 𝗙𝗥𝗢𝗡𝗧𝗘𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗙𝗥𝗢𝗠 𝗜𝗡𝗗𝗜𝗔</h3>
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=☠️+𝐃𝐄𝐕𝐈𝐋+𝐓𝐄𝐀𝐌+𝐋𝐘𝐆𝐎𝐏𝐇𝐈𝐋𝐄+💲">
 
-<img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/21120d4f4ab242be176af.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkara011&label=Profile%20views&color=0e75b6&style=flat" alt="omkara011" /> </p>
 <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
