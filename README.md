@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning React native
 
 - 💬 Ask me about Android , Mearn
-
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>]
 - 📫 How to reach me jaishukla509@gmail.com
 - <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
