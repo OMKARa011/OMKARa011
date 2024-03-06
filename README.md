@@ -6,17 +6,19 @@
 <img align="right" alt="Coding" width="400" src="https://te.legra.ph/file/21120d4f4ab242be176af.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkara011&label=Profile%20views&color=0e75b6&style=flat" alt="omkara011" /> </p>
-
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>]
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>]
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkara011" alt="omkara011" /></a> </p>
 
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>]
 <p align="left"> <a href="https://twitter.com/omkara011" target="blank"><img src="https://img.shields.io/twitter/follow/omkara011?logo=twitter&style=for-the-badge" alt="omkara011" /></a> </p>
 
 - 🌱 I’m currently learning React native
 
 - 💬 Ask me about Android , Mearn
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>]
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 - 📫 How to reach me jaishukla509@gmail.com
 - <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
