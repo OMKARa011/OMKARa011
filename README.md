@@ -18,6 +18,7 @@
 - 💬 Ask me about Android , Mearn
 
 - 📫 How to reach me jaishukla509@gmail.com
+- <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
