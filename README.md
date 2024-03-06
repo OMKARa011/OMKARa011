@@ -6,7 +6,9 @@
 <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkara011&label=Profile%20views&color=0e75b6&style=flat" alt="omkara011" /> </p>
+<b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/OMKARa011/count.svg" />
+</p>
 <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
