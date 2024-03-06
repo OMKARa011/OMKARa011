@@ -1,8 +1,9 @@
 ![MasterHead](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=740&t=st=1692852250~exp=1692852850~hmac=4cf023eff220337c3f0d924b8446cc7ca32810f62697684c55607da8826d3b17)
+<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 <h1 align="center">Hi 👋, I'm 𝗝𝗔𝗜 𝗦𝗛𝗨𝗞𝗟𝗔 </h1>
 <h3 align="center"> 𝗔 𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘 𝗙𝗥𝗢𝗡𝗧𝗘𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗙𝗥𝗢𝗠 𝗜𝗡𝗗𝗜𝗔</h3>
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=☠️+𝐃𝐄𝐕𝐈𝐋+𝐓𝐄𝐀𝐌+𝐋𝐘𝐆𝐎𝐏𝐇𝐈𝐋𝐄+💲">
-
+<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkara011&label=Profile%20views&color=0e75b6&style=flat" alt="omkara011" /> </p>
