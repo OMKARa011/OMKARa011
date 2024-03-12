@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkara011&show_icons=true&locale=en" alt="omkara011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkara011&" alt="omkara011" /></p>
+<h1 align="center"><img src="./.github/yae-miko.gif" /></h1>
