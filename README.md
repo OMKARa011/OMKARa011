@@ -24,7 +24,7 @@
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 - 📫 How to reach me jaishukla509@gmail.com
 - <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
-
+<h1 align="center"><img src="./.github/yae-miko.gif" /></h1>
 [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://t.me/JUST_DEVIL_TEAM) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/OMKARa011) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/jai_shiva7)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkara011&show_icons=true&locale=en" alt="omkara011" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkara011&" alt="omkara011" /></p>
-<h1 align="center"><img src="./.github/yae-miko.gif" /></h1>
+
