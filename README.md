@@ -9,7 +9,7 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=OMKARa011&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      https://github.com/OMKARa011/OMKARa011/assets/105618799/4b5d6702-7c38-4991-8caf-99c026a77128
+      <p align="center"><img src="https://telegra.ph/file/0910070923045b039df56.mp4" width="100%"></p>
    </td>  
  </tr>  
 </table>
