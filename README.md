@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm 𝗝𝗔𝗜 𝗦𝗛𝗨𝗞𝗟𝗔 </h1>
 <h3 align="center"> 𝗔 𝗣𝗔𝗦𝗦𝗜𝗢𝗡𝗔𝗧𝗘 𝗙𝗥𝗢𝗡𝗧𝗘𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗙𝗥𝗢𝗠 𝗜𝗡𝗗𝗜𝗔</h3>
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=☠️+𝐃𝐄𝐕𝐈𝐋+𝐓𝐄𝐀𝐌+𝐋𝐘𝐆𝐎𝐏𝐇𝐈𝐋𝐄+💲">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif/"/>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
 <b>ᴠɪsɪᴛᴏʀs</b><br>
@@ -19,7 +19,7 @@
 <p align="left"> <a href="https://twitter.com/omkara011" target="blank"><img src="https://img.shields.io/twitter/follow/omkara011?logo=twitter&style=for-the-badge" alt="omkara011" /></a> </p>
 
 - 🌱 I’m currently learning React native
-- https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif
+-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 - 💬 Ask me about Android , Mearn
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
