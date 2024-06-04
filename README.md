@@ -5,12 +5,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=☠️+𝐃𝐄𝐕𝐈𝐋+𝐓𝐄𝐀𝐌+𝐋𝐘𝐆𝐎𝐏𝐇𝐈𝐋𝐄+💲">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Demon+Jai;"/>
+     <img width="150" align="center" src="https://komarev.com/ghpvc/?username=OMKARa011&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="OMKARa011"/>
+      <br>
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=OMKARa011&data=followers,repositories,stars,commits&theme=viridescent"/>
+    <td>
+      <img alt="gif" src="./assets/images/demon-sleyar.gif">
+   </td>  
+ </tr>  
+</table>
 
-<b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/OMKARa011/count.svg" />
-</p>
-<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkara011" alt="omkara011" /></a> </p>
