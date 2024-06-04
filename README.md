@@ -9,7 +9,7 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=OMKARa011&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
+      ![demon-sleyar](https://github.com/OMKARa011/OMKARa011/assets/105618799/c2b3e1c8-e00f-4037-8f8b-235dc17ba1a3
    </td>  
  </tr>  
 </table>
