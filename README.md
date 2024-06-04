@@ -11,6 +11,7 @@
 </p>
 <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
+      <img alt="gif" src="./assets/images/demon-sleyar.gif">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkara011" alt="omkara011" /></a> </p>
