@@ -9,7 +9,7 @@
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=OMKARa011&data=followers,repositories,stars,commits&theme=viridescent"/>
     <td>
-      <p align="center"><img src="https://telegra.ph/file/0910070923045b039df56.mp4" width="100%"></p>
+      <p align="center"><img src="https://drive.google.com/file/d/1--vbe34I1n8ODSvUjTIGUOwXZgD6D8Mk/view?usp=drivesdk" width="100%"></p>
    </td>  
  </tr>  
 </table>
