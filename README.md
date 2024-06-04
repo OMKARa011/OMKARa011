@@ -1,7 +1,10 @@
 <img width=100% title="ANONYMOUS DEVIL " alt="ANONYMOUS DEVIL" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-DEVIL&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Demon+Jai;"/>
+<table border="0">
+ <tr>
+    <td>
+      <br>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+DEMON+JAI;"/>
      <img width="150" align="center" src="https://komarev.com/ghpvc/?username=OMKARa011&label=Profile%20Visitor&color=071A2C&style=for-the-badge" alt="OMKARa011"/>
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=OMKARa011&data=followers,repositories,stars,commits&theme=viridescent"/>
